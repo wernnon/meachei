@@ -1,11 +1,10 @@
 import './App.css';
-import Logo1 from './Images/Logo1.png'
-import Imagem from './Componentes/Imagem';
+import Botao from './Componentes/Botao';
 function App() {
   return (
     <div>
-      <Imagem
-      foto={Logo1} />
+      <Botao 
+      botao='ENTRAR'/>
     </div>
   );
 }
