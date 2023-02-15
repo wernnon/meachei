@@ -1,7 +1,10 @@
-import React from 'react'
+import React from 'react';
+import './Imagem.css';
 
-export default function Imagem() {
+export default function Imagem(props) {
   return (
-    <div>Imagem</div>
+    <div className='container'>
+      <img className='foto' src={props.foto} />
+    </div>
   )
 }
