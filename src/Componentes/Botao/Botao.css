@@ -1,11 +1,10 @@
 .botao{
-    
     padding-bottom: 1vw;
-    font-size: 4vw;
-    width: 40vw;
+    padding-top: 1vw;
+    font-size: 3vw;
+    width: 41vw;
     background-color: #008000;
     border-radius: 15vw;
     border: none;
     color: aliceblue;
 }
-

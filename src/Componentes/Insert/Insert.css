@@ -1,0 +1,11 @@
+.insert{
+    border-radius: 5vw;
+    background-color: #e3dfd6;
+    color: #008000;
+    border: none;
+    width: 40vw;
+    font-size: 3vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    padding-left: 1vw;
+}
