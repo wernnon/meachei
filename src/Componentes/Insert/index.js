@@ -1,7 +1,11 @@
 import React from 'react'
-
-export default function Insert() {
+import './Insert.css'
+export default function Insert(props) {
   return (
-    <div>Insert</div>
+    <div>
+      <form>
+        <input class="insert" type='text' id={props.id} name={props.name} placeholder={props.holder}/>
+      </form>
+    </div>
   )
 }

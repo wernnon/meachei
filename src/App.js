@@ -1,10 +1,14 @@
 import './App.css';
-import Botao from './Componentes/Botao';
+import Insert from './Componentes/Insert';
+import Botao from './Componentes/Botao'
 function App() {
   return (
     <div>
-      <Botao 
-      botao='ENTRAR'/>
+      <Insert
+      holder="E-mail"/> 
+
+      <p/><Botao
+      botao="ENTRAR"/> 
     </div>
   );
 }
