@@ -1,0 +1,12 @@
+.box{
+    background-color: #f4f4f4;
+    padding-left: 2vw;
+    width: 48vw;
+    margin-bottom: 0.25vw;
+    overflow-wrap: break-word;
+}
+.boteum{
+    background-color: gainsboro;
+    width: 50vw;
+    text-align: justify;
+}
