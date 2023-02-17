@@ -1,7 +1,16 @@
 import React from 'react'
-
-export default function Inferior() {
+import './Inferior.css'
+export default function Inferior(props) {
   return (
-    <div>Inferior</div>
+    <div className="inferior">
+      <div className='conteudo'>
+       {props.texto1}
+      </div>
+      <div className='conteudo'>
+       {props.texto2}
+      </div>
+    </div>
+
+    
   )
 }
