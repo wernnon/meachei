@@ -1,0 +1,6 @@
+.inferior{
+    display: flex;
+    border-top-style: solid;
+    border-color:green ;
+    justify-content: space-between;
+}
