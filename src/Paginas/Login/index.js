@@ -12,7 +12,8 @@ export default function Login() {
       <Insert holder='Senha'/>
       <Botao botao='Entrar'/>
       <Inferior texto1='Não é cadastrado?'
-      texto2='Toque aqui para criar sua conta' />
+      texto2='Toque aqui para criar sua conta'
+      link="/cadastro" />
     </div>
   )
 }
