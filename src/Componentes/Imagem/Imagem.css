@@ -1,7 +1,9 @@
 .container{
     padding-top: 5vw;
+    padding-bottom: 5vw;
     text-align: center;
 }
 .foto{
-    width: 20vw;
+    width: 25vw;
+    border-radius: 50%;
 }
