@@ -1,11 +1,15 @@
+.outer{
+    text-align: center;
+    padding-top: 1vw;
+    padding-bottom:1vw;
+}
 .insert{
     border-radius: 5vw;
     background-color: #e3dfd6;
     color: #008000;
     border: none;
-    width: 40vw;
+    width: 58vw;
+    height: 7vw;
     font-size: 3vw;
-    padding-top: 1vw;
-    padding-bottom: 1vw;
-    padding-left: 1vw;
+    padding-left: 2vw;
 }

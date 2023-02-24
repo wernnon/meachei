@@ -1,8 +1,12 @@
+.outer{
+    text-align: center;
+}
 .botao{
-    padding-bottom: 1vw;
-    padding-top: 1vw;
+    text-align: center;
+    align-items: center;
+    height: 7vw;
     font-size: 3vw;
-    width: 41vw;
+    width: 60vw;
     background-color: #008000;
     border-radius: 15vw;
     border: none;
