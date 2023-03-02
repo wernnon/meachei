@@ -1,12 +1,14 @@
 .box{
-    background-color: #f4f4f4;
-    padding-left: 2vw;
-    width: 48vw;
+    background-color: #c4c2c2;
+    width: 100%;
+    font-size: 1.5vw;
     margin-bottom: 0.25vw;
     overflow-wrap: break-word;
 }
 .boteum{
     background-color: gainsboro;
-    width: 50vw;
+    width: 100%;
     text-align: justify;
+    font-size: 1.5vw;
+    border-style: none;
 }

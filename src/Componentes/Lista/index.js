@@ -3,7 +3,7 @@ import React,{useState} from 'react';
 export default function Lista(props) {
   const [show,setShow]=useState(true)
   return (
-    <div>
+    <div className='fora'>
       <button class='boteum' onClick={()=>setShow(!show)} >{props.local}</button> 
       {
         show?

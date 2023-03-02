@@ -3,6 +3,7 @@ import Botao from '../../Componentes/Botao';
 import Imagem from '../../Componentes/Imagem';
 import Insert from '../../Componentes/Insert';
 import Inferior from '../../Componentes/Inferior';
+import Lista from '../../Componentes/Lista';
 export default function Cadastro() {
   return (
     <div>
