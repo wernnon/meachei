@@ -7,7 +7,11 @@ export default function Insert(props) {
           {props.texto}
         </div>
         <form className='outer'>
-        <input class="insert" type='text' id={props.id} name={props.name} placeholder={props.holder} onKeyPress='*********8'/>
+        <input class="insert" 
+        type='text' 
+        id={props.id} 
+        name={props.name} 
+        placeholder={props.holder} />
       </form>
     </div>
   )

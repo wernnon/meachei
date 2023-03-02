@@ -10,7 +10,7 @@ export default function Login() {
       name='https://picsum.photos/600/600'/>
       <Insert holder='E-mail'/>
       <Insert holder='Senha'/>
-      <Botao botao='Entrar'/>
+         <Botao botao='Entrar' link="/main"/>
       <Inferior texto1='Não é cadastrado?'
       texto2='Toque aqui para criar sua conta'
       link="/cadastro" />
