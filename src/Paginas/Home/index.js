@@ -2,10 +2,12 @@ import React from 'react'
 import Insert from '../../Componentes/Insert';
 import Inferior from '../../Componentes/Inferior';
 import Lista from '../../Componentes/Lista';
+import Mapa from '../../Componentes/Mapa';
 export default function Home() {
   return (
     <div>
       <Insert holder="Buscar"/>
+      <Mapa/>
       <Lista 
       local='ifro'
       endereco='ifro'
