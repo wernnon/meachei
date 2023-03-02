@@ -8,7 +8,13 @@
 .boteum{
     background-color: gainsboro;
     width: 100%;
+    height: fit-content;
     text-align: justify;
     font-size: 1.5vw;
     border-style: none;
+}
+.fora{
+    margin:0vw;
+    height: auto;
+    padding: 0vw;
 }
