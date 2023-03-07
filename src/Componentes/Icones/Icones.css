@@ -1,0 +1,13 @@
+.inferior{
+    background-color: white;
+    display: flex;
+    border-top-style: solid;
+    border-color:green ;
+    justify-content: space-around;
+    align-items: center;
+    height: 5vw;
+    width: 100%;
+    font-size: 3vw;
+    position: sticky;
+    bottom: 0;
+}
